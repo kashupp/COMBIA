@@ -5,9 +5,11 @@ Title: Synergy/Antagonism Analyses of Drug Combinations
 Version: 1.0.7
 
 Author: Muhammad Kashif
-Maintainer: Muhammad Kashif <Muhammad.Kashif@medsci.uu.se>
+
+Maintainer: Muhammad Kashif <kashifbioinfo@gmail.com>
 
 Description: 
+
 A comprehensive synergy/antagonism analyses of drug combinations with quality graphics and data.
 The analyses can be performed by Bliss independence and Loewe additivity models. 
 
@@ -28,10 +30,16 @@ Depends: hash, lattice, latticeExtra, oro.nifti
 
 Imports: gdata, grDevices, stats, utils
 
-Published outputs:
+Example published outputs:
+
+URL: <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5732778/>
 
 <img width="275" alt="image" src="https://user-images.githubusercontent.com/56387631/191234592-318476a6-fc21-45c7-876c-87aba5d6c4a3.png">
 
 <img width="275" alt="image" src="https://user-images.githubusercontent.com/56387631/191234878-34025e66-15cd-41ad-af0b-ddfe44dceb92.png">
+
+URL: <https://www.sciencedirect.com/science/article/pii/S0006295216302386>
+
+<img width="243" alt="image" src="https://user-images.githubusercontent.com/56387631/191236169-eef79f6c-8946-4e2b-bbf2-ae0e565e9247.png">
 
 
