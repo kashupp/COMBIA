@@ -1,9 +1,0 @@
-bibentry(bibtype = "Article",
-         title = "Bliss and Loewe interaction analyses of clinically relevant drug combinations in human colon cancer cell lines reveal complex patterns of synergy and antagonism.",
-         author = c(person("Muhammad", "Kashif"), person("Claes", "Andersson"),
-                    person("Sharmineh", "Mansoori"),person("Rolf", "Larsson"),person("Peter", "Larsson"),
-                    person("Mats", "Gustafsson")
-                    ),
-	 journal = "Oncotarget",
-         year = 2017)
-         
